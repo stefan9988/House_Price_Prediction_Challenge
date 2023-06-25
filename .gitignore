@@ -1,3 +1,4 @@
 .ipynb_checkpoints/Models-checkpoint.ipynb
 .ipynb_checkpoints/Data_preprocessing-checkpoint.ipynb
 Models/RFR.pkl
+Models/NN.pkl
